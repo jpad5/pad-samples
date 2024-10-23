@@ -5,7 +5,7 @@ Repo to list samples for Power Automate Desktop (RPA)
 
 Use Solution "PADWorkQueueDataExportSolution_1_0_0_2" to export Work Queue data for a specified work queue. 
 
-<br>This solution includes the option to export metadata and/or input data for a work queue item. [https://github.com/jpad5/pad-samples/blob/main/PADWorkQueueDataExportSolution_1_0_0_1.zip](https://github.com/jpad5/pad-samples/blob/main/PADWorkQueueDataExportSolution_1_0_0_2.zip)
+<br>This solution includes the option to export metadata and/or input data for a work queue item. [https://github.com/jpad5/pad-samples/blob/main/PADWorkQueueDataExportSolution_1_0_0_2.zip](https://github.com/jpad5/pad-samples/blob/main/PADWorkQueueDataExportSolution_1_0_0_2.zip)
 
 <b> How to run PADWorkQueueDataExportSolution</b>
 <li>Download the solution zip file from GitHub repo.
